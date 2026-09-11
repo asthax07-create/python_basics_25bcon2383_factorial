@@ -4,7 +4,6 @@ A simple Python program that calculates the **factorial of a given number** usin
 
 ## 📌 Project Description
 
-The **Factorial Calculator** takes a non-negative integer as input and calculates its factorial.
 
 The factorial of a number `n` is represented as `n!` and is calculated as:
 
@@ -75,7 +74,7 @@ Factorial of 5 = 120
 ```
 
 ## 📁 Project Structure
-
+the provided code confirm factorial.py,but cannot confirm whether readme.md exist in respository 
 ```text
 factorial-calculator/
 │
@@ -85,6 +84,5 @@ factorial-calculator/
 
 ## 📄 License
 
-This project is available under the **MIT License**.
 
-You are free to use, modify, and distribute this project, subject to the terms of the MIT License.
+no licence inforamtion appears anywhere 
